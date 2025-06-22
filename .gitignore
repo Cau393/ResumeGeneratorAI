@@ -1,0 +1,5 @@
+venv
+resume_platform/.env
+frontend/.env
+frontend/node_modules
+db.sqlite3
